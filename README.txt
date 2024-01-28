@@ -1,0 +1,1 @@
+Simple project on QtCreator which was made during labs in university. Application can parse CSV/JSON files which contain some information about serials (name, year, seasons). You can choose CSV/JSON file with serials on your PC, find information about any serial in this file, add new serials and sort them by the year. Application wrapped by simple and understandable (maybe) UI.
